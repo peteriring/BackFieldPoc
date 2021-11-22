@@ -1,8 +1,8 @@
 {
   "display": "standalone",
   "lang": "en",
-  "name": "BackFieldPoC",
-  "short_name": "BackFieldPoC",
+  "name": "Backfield - mobile",
+  "short_name": "Backfield - mobile",
   "orientation": "portrait",
   "start_url": ".",
   "icons": [
