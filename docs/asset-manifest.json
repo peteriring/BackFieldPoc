@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "./static/js/app.6524ec55.chunk.js",
-    "app.js.map": "./static/js/app.6524ec55.chunk.js.map",
+    "app.js": "./static/js/app.44b6025e.chunk.js",
+    "app.js.map": "./static/js/app.44b6025e.chunk.js.map",
     "runtime~app.js": "./static/js/runtime~app.30b509be.js",
     "runtime~app.js.map": "./static/js/runtime~app.30b509be.js.map",
-    "static/js/2.a8d0142f.chunk.js": "./static/js/2.a8d0142f.chunk.js",
-    "static/js/2.a8d0142f.chunk.js.map": "./static/js/2.a8d0142f.chunk.js.map",
+    "static/js/2.096bbcda.chunk.js": "./static/js/2.096bbcda.chunk.js",
+    "static/js/2.096bbcda.chunk.js.map": "./static/js/2.096bbcda.chunk.js.map",
     "fonts/AntDesign.ttf": "././fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "././fonts/Entypo.ttf",
     "fonts/Feather.ttf": "././fonts/Feather.ttf",
@@ -39,7 +39,6 @@
     "back-icon.png": "./c733a880bd6d3d1f0f38ef1608fb8a32.png",
     "bell.png": "./cf04af27d6a651c4b904531aef2cf39b.png",
     "rocket.png": "./d2f3bf41d5e4515c39a9aebaabcce540.png",
-    "logo512.png": "./logo512.png",
     "airbnb-star.png": "./f5730e12d789191d8eba5047d66717f5.png",
     "back-icon-mask.png": "./fae3c934a7353e1defbb00343509b3aa.png",
     "favicon-16.png": "./favicon-16.png",
@@ -47,14 +46,15 @@
     "favicon.ico": "./favicon.ico",
     "index.html": "./index.html",
     "logo192.png": "./logo192.png",
+    "logo512.png": "./logo512.png",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
     "service-worker.js.map": "./service-worker.js.map",
-    "static/js/2.a8d0142f.chunk.js.LICENSE.txt": "./static/js/2.a8d0142f.chunk.js.LICENSE.txt"
+    "static/js/2.096bbcda.chunk.js.LICENSE.txt": "./static/js/2.096bbcda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.30b509be.js",
-    "static/js/2.a8d0142f.chunk.js",
-    "static/js/app.6524ec55.chunk.js"
+    "static/js/2.096bbcda.chunk.js",
+    "static/js/app.44b6025e.chunk.js"
   ]
 }
