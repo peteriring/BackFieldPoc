@@ -26,17 +26,5 @@
     }
   ],
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "scope": "/",
-  "related_applications": [
-    {
-      "id": "self",
-      "platform": "web",
-      "url": "https://backfieldapp-demo.allwin.hu/manifest.json"
-    },
-    {
-      "platform": "webapp",
-      "url": "https://backfieldapp-demo.allwin.hu/manifest.json"
-    }
-  ]
+  "background_color": "#ffffff"
 }
