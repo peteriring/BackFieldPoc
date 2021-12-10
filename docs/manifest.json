@@ -30,8 +30,13 @@
   "scope": "/",
   "related_applications": [
     {
+      "id": "self",
+      "platform": "web",
+      "url": "https://backfieldapp-demo.allwin.hu/manifest.json"
+    },
+    {
       "platform": "webapp",
-      "url": "https://peteriring.github.io/BackFieldPoc/manifest.json"
+      "url": "https://backfieldapp-demo.allwin.hu/manifest.json"
     }
   ]
 }
